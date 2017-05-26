@@ -1,0 +1,82 @@
+body {
+	margin: 0;
+}
+.header-bg {
+	background: url("../images/back1.jpg");
+	background-position: bottom;
+	background-attachment: ;
+	background-repeat: no-repeat;
+	height: 50vh;
+	background-blend-mode: normal;
+	color: white; 
+
+}
+.header-bg2 {
+	background: url("../images/back2.jpg");
+	background-position: top;
+	background-attachment: ;
+	background-repeat: no-repeat;
+	height: 50vh;
+	background-blend-mode: normal;
+
+}
+.header-bg3 {
+	background: url("../images/bg.jpg");
+	background-position: center;
+	background-attachment: ;
+	background-repeat: no-repeat;
+	height: 20vh;
+	background-blend-mode: normal;
+
+}
+.header-bg4 {
+	background: url("../images/bg.jpg");
+	background-position: center;
+	background-attachment: ;
+	background-repeat: no-repeat;
+	height: 20vh;
+	background-blend-mode: normal;
+
+}
+.home {
+	margin-top: -40px;
+	color:transparent;
+	transition: 3s;
+}
+.home:hover {
+	margin-top: 0;
+	color: black;
+}
+
+h1 {
+	margin: 0;
+}
+
+/*
+.overlay {
+	background: rgba(46, 170, 242, 0.5);
+	opacity: 0.9;
+	height: 100%;
+	min-height: 100vh;
+
+}
+
+.header-bg:hover {
+
+	background: url("../images/bg2.jpg");
+	bottom:-100vh;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: normal;
+	color: white; 
+}
+
+
+img {
+	height: 30vh;
+}
+div > center > h1 {
+	margin: 20vh;
+}*/
